@@ -14,10 +14,7 @@ public class Calci2 {
             case '+':
                 result = first + second;
                 break;
-            case '-':
-                result = first - second;
-                break;
-            case '*':
+             case '*':
                 result = first * second;
                 break;
             case '/':
