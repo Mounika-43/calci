@@ -20,7 +20,8 @@ public class Calci2 {
             case '/':
                 result = first / second;
                 break;
-            case '%':
+           // git testing
+       case '%':
                 result = first % second;
                 break;
             // operator doesn't match any case constant (+, -, *, /,%)
