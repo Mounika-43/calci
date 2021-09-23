@@ -16,8 +16,10 @@ public class Calci2 {
                 break;
              case '*':
                 result = first * second;
-                break;
-            case '/':
+                   added additional changes 
+break;
+          
+  case '/':
                 result = first / second;
                 break;
            // git testing
